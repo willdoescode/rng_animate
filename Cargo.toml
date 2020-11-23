@@ -1,6 +1,6 @@
 [package]
 name = "rng_animate"
-version = "0.1.0"
+version = "9000.1.0"
 description = "a random animation in the terminal"
 license = "MIT"
 authors = ["Will Lane <williamlane923@gmail.com>"]
